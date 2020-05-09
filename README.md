@@ -22,7 +22,11 @@ jupyter notebook dlnd_tv_script_generation.ipynb.ipynb
 on any Jupyter Notebook.
 This will open the iPython Notebook software and project file in your browser.
 
-#Examples
+# Examples
+
+```
+
+```
 
 ## License
 This project uses the [MIT](https://choosealicense.com/licenses/mit/) License.
