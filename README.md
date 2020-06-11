@@ -16,7 +16,7 @@ jupyter notebook dlnd_tv_script_generation.ipynb
 
 or
 ```bash
-jupyter notebook dlnd_tv_script_generation.ipynb.ipynb
+jupyter notebook dlnd_tv_script_generation.ipynb
 ```
 
 on any Jupyter Notebook.
